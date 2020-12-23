@@ -1,0 +1,10 @@
+type: Wall
+
+health: 500
+
+requirements: [
+  Cubite/6
+]
+size: 1
+solid: false
+category: defense
